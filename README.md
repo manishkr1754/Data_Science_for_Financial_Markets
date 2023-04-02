@@ -13,7 +13,7 @@
 ### 1. Introduction
 ---
 ### 2. Essential Libraries
-1. `yfinance`
+1. `yfinance` or `nsepy`
 
 2. `quantstats`
 
