@@ -31,7 +31,7 @@
    7. Datetime
    8. Hiding Warnings
 ---
-### 3. Financial Data Extraction using `yfinance`
+### 3. Financial Data Extraction using `nsepy` or `yfinance`
 1. NIFTY50
 
 2. Tata Motors
