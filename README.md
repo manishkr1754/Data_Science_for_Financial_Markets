@@ -31,7 +31,24 @@
    7. Datetime
    8. Hiding Warnings
 ---
-### 3. Statistical Measures and Analysis Techniques
+### 3. Financial Data Extraction using `yfinance`
+1. NIFTY50
+
+2. Tata Motors
+
+3. Havells
+
+4. ITC
+
+5. Infosys
+---
+### 4. Exporting Extracted Financial Data
+
+1. Exporting Financial Data to .csv
+
+2. Data Eyeballing
+---
+### 5. Statistical Measures and Analysis Techniques
 1. Daily Returns
 2. Cumulative Returns
 3. Histograms
@@ -43,7 +60,7 @@
 9. Sharpe Ratio
 10. Initial Conclusions
 ---
-### 4. Building and Optimizing Portfolios
+### 6. Building and Optimizing Portfolios
 1. What is Portfolio ?
 2. Optimizing Portfolio
 3. Markowitz Mean-Variance Optimization Model
@@ -52,7 +69,7 @@
 - Views
 - Confidences
 ---
-### 5. Fundamental vs Technical Analysis
+### 7. Fundamental vs Technical Analysis
 1. Which Approach is better ?
 2. Technical Indicators
     1. Moving Averages
@@ -66,7 +83,7 @@
     4. Debt to Equity Ratio
     5. Dividend Yield
 ---
-### 6. Backtesting
+### 8. Backtesting
 1. RSI Backtesting
     1. Hourly Data
     2. Daily Data
@@ -76,5 +93,5 @@
     2. Daily Data
     3. Weekly Data
 ---
-### 7. Conclusion and Way Forward
+### 9. Conclusion and Way Forward
 --- 
